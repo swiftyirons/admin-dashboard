@@ -8,7 +8,7 @@
 .container {
   display: grid;
   grid-template-columns: 1fr 5fr;
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto 1frg;
   height: 100vh;
 }
 .sidebar {
